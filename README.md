@@ -1,4 +1,4 @@
-# quest_1
+# quest 1
 README: Escape Room Text Adventure Game
 
 This is a Python-based text adventure game where the player must escape from a mysterious house by exploring rooms, collecting keys, and unlocking doors. The game involves decision-making, puzzle-solving, and a bit of trial and error.
