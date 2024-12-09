@@ -8,7 +8,7 @@ You wake up on a couch in a strange house with no windows. You don't remember ho
 
 ## </> How to Play
 
-__Start the game:__ The game begins in the game room. __Explore or Examine:__ At each point in the game, you can either explore the room or examine specific objects. __Explore:__ Lists all objects in the room. Examine: Interact with specific objects. If you find a door, you can unlock it if you have the key. __Jumping:__ You can try jumping (up to twice), but it won’t help, and you’ll get tired. __Escape:__ Your goal is to reach the outside by collecting keys and unlocking doors. __Mistakes:__ If you make 3 mistakes in a row, you may have to end the game. Commands _explore:_ Explore the current room. _examine:__ Examine a specific item in the room. _jump:__ Jump in place (only twice allowed before getting too tired).
+__Start the game:__ The game begins in the game room. __Explore or Examine:__ At each point in the game, you can either explore the room or examine specific objects. __Explore:__ Lists all objects in the room. Examine: Interact with specific objects. If you find a door, you can unlock it if you have the key. __Jumping:__ You can try jumping (up to twice), but it won’t help, and you’ll get tired. __Escape:__ Your goal is to reach the outside by collecting keys and unlocking doors. __Mistakes:__ If you make 3 mistakes in a row, you may have to end the game. Commands _explore:_ Explore the current room. _examine:_ Examine a specific item in the room. _jump:_ Jump in place (only twice allowed before getting too tired).
 
 ## </> Game Structure
 
